@@ -47,7 +47,7 @@ We believe in collaboration and open-source contributions. Here’s how you can 
 ---
 
 ## License
-All our open-source projects are licensed under the [MIT License](link). Feel free to use, modify, and distribute the code as per the license terms.
+All our open-source projects are licensed under the [MIT License](links). Feel free to use, modify, and distribute the code as per the license terms.
 
 ---
 
