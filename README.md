@@ -54,7 +54,7 @@ All our open-source projects are licensed under the [MIT License](links). Feel f
 ## Support Us
 If you find our work valuable, consider supporting us:
 - **Star Our Repositories:** Show your appreciation by starring our projects on GitHub.
-- **Donate:** Help us continue our mission by donating [TON-Coin](UQCS3p5QC8JMm633ObFxL0bUsoc-VbsjSKhnghIddkuR1iZK).
+- **Donate:** Help us continue our mission by donating **TON-Coin** [UQCS3p5QC8JMm633ObFxL0bUsoc-VbsjSKhnghIddkuR1iZK](UQCS3p5QC8JMm633ObFxL0bUsoc-VbsjSKhnghIddkuR1iZK).
 
 ---
 
