@@ -20,13 +20,13 @@ We are committed to excellence, innovation, and creating value for our clients a
 ## Samples 
 ### Dashboard.
 
-![Screenshot_20250211_102936_Chrome](https://github.com/user-attachments/assets/a015a61c-7b0d-4fe4-9a24-899f019dd218)
+![Dashboard Image](https://github.com/user-attachments/assets/a015a61c-7b0d-4fe4-9a24-899f019dd218)
 
 ### profile 
-![Screenshot_20250211_103043_Chrome](https://github.com/user-attachments/assets/6622133d-8cb1-448d-b6d3-4a1eee41355d)
+![Profile Page](https://github.com/user-attachments/assets/6622133d-8cb1-448d-b6d3-4a1eee41355d)
 
 ### Detection Analysis 
-![Screenshot_20250211_103011_Chrome](https://github.com/user-attachments/assets/2f3f2f4c-8434-4187-8fb1-c9dd5ae8a1ea)
+![Detection Chart Report](https://github.com/user-attachments/assets/2f3f2f4c-8434-4187-8fb1-c9dd5ae8a1ea)
 
 ---
 
